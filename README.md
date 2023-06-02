@@ -2,7 +2,7 @@
 A SQL based management system for a perfume distribution company. GUI coded with VB.Net
 
 Install the program [here](https://github.com/eileenthg/perfume-db/releases/)!
-Program will be installed in root folder and Documents.
+Program will be installed in root folder.
 
 ![image](https://github.com/eileenthg/perfume-db/assets/40307498/989cdd45-e14a-4a2a-8d3a-90f60404edb5)
 ![image](https://github.com/eileenthg/perfume-db/assets/40307498/9933604b-ee8f-410b-8795-b63478badd4f)
